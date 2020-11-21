@@ -7,6 +7,7 @@ Made 2 projects using react fundamental concepts such as :
 ### conditional rendering
 ### fetching data from API
 ### controlled forms
+### hooks (such as useState() and useEffect() )
 
 The projects are 
 <br />
