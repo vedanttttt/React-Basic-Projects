@@ -11,6 +11,9 @@ import Fetch from './components/Fetch'
 import Form from './components/Form'
 import FormContainer from './components/FormPracticeContainer'
 import MemeGeneratorProject from './MemeGeneratorProject/App'
+import StateHooks from './components/StateHooks'
+import UseEffectHooks from './components/UseEffectHooks'
+import UseEffectHooks2 from './components/UseEffectHooks2'
 
 function App(){
     return(
@@ -26,6 +29,10 @@ function App(){
             <Products />
             <MyInfo />
             <Footer /> */}
+
+            {/* <UseEffectHooks2 />
+            <UseEffectHooks />
+            <StateHooks /> */}
 
             <MemeGeneratorProject />
             <br />
